@@ -3,10 +3,10 @@ using QTWalletClient.Models;
 using System;
 using System.IO;
 using System.Threading.Tasks;
-using WalletCommander.Models;
-using WalletCommander.Services;
+using WalletCreatorCron.Models;
+using WalletCreatorCron.Services;
 
-namespace WalletCommander
+namespace WalletCreatorCron
 {
     class Program
     {

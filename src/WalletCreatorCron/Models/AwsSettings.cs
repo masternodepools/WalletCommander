@@ -1,4 +1,4 @@
-﻿namespace WalletCommander.Models
+﻿namespace WalletCreatorCron.Models
 {
     public class AwsSettings
     {

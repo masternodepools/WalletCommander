@@ -3,9 +3,9 @@ using QTWalletClient.Models;
 using System;
 using System.Threading;
 using System.Threading.Tasks;
-using WalletCommander.Models;
+using WalletCreatorCron.Models;
 
-namespace WalletCommander.Services
+namespace WalletCreatorCron.Services
 {
     public class WalletCreator
     {

@@ -4,9 +4,9 @@ using Amazon.DynamoDBv2.DocumentModel;
 using Newtonsoft.Json;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using WalletCommander.Models;
+using WalletCreatorCron.Models;
 
-namespace WalletCommander.Services
+namespace WalletCreatorCron.Services
 {
     public class WalletDbService
     {
